@@ -1,0 +1,5 @@
+outs:
+- md5: 51ceba07d1eb3a2be39b0610e5e5c88b
+  size: 4737
+  hash: md5
+  path: crypto_price.csv

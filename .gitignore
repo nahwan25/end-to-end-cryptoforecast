@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.pyc
+scripts/artifacts/
+.env
+.vscode/
